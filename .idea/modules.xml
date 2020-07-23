@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/JUC.iml" filepath="$PROJECT_DIR$/JUC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/concurrent/concurrent.iml" filepath="$PROJECT_DIR$/concurrent/concurrent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/imooc/imooc.iml" filepath="$PROJECT_DIR$/imooc/imooc.iml" />
+    </modules>
+  </component>
+</project>
