@@ -1,6 +1,7 @@
 package com.coderman.flowcontroller;
 
 import java.util.concurrent.CountDownLatch;
+import java.util.concurrent.CyclicBarrier;
 
 /**
  * CountDownLatch的基本的使用
